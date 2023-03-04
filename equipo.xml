@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estilos.css" type="text/css"?>
+
+<jugadores>
+    <jugador codigoJugador = "0001">
+        <nombreDelEquipo> Real Madrid </nombreDelEquipo>
+        <entrenador> Carlo Ancelotti </entrenador>
+        <nombreJugador> Karim Benzema </nombreJugador>
+    </jugador>
+    <jugador codigoJugador = "0002">
+        <nombreDelEquipo> Barcelona </nombreDelEquipo>
+        <entrenador> Xavi Hernandez </entrenador>
+        <nombreJugador> Ronaldo Araujo </nombreJugador>
+    </jugador>
+    <jugador codigoJugador = "0003">
+        <nombreDelEquipo> Atletico de Madrid </nombreDelEquipo>
+        <entrenador> Diego Simeone </entrenador>
+        <nombreJugador> Memphis Depay </nombreJugador>
+    </jugador>
+    <jugador codigoJugador = "0004">
+        <nombreDelEquipo> Atletico de Bilbao </nombreDelEquipo>
+        <entrenador> Ernesto Valverde </entrenador>
+        <nombreJugador> Nico Williams </nombreJugador>
+    </jugador>
+    <jugador codigoJugador = "0005">
+        <nombreDelEquipo> Girona </nombreDelEquipo>
+        <entrenador> Michel </entrenador>
+        <nombreJugador> Yan Couto </nombreJugador>
+    </jugador>
+</jugadores>
